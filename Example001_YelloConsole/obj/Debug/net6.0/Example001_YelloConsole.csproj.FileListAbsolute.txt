@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\bin\Debug\net6.0\Example001_YelloConsole.exe
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\bin\Debug\net6.0\Example001_YelloConsole.deps.json
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\bin\Debug\net6.0\Example001_YelloConsole.runtimeconfig.json
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\bin\Debug\net6.0\Example001_YelloConsole.dll
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\bin\Debug\net6.0\Example001_YelloConsole.pdb
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\Example001_YelloConsole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\Example001_YelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\Example001_YelloConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\Example001_YelloConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\Example001_YelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\Example001_YelloConsole.dll
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\refint\Example001_YelloConsole.dll
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\Example001_YelloConsole.pdb
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\Example001_YelloConsole.genruntimeconfig.cache
+C:\Users\User\Desktop\Examples\Example001_YelloConsole\obj\Debug\net6.0\ref\Example001_YelloConsole.dll
